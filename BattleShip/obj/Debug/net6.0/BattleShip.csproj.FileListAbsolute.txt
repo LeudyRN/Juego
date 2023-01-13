@@ -1,0 +1,15 @@
+C:\Users\Leudy\Desktop\BattleShip\bin\Debug\net6.0\BattleShip.exe
+C:\Users\Leudy\Desktop\BattleShip\bin\Debug\net6.0\BattleShip.deps.json
+C:\Users\Leudy\Desktop\BattleShip\bin\Debug\net6.0\BattleShip.runtimeconfig.json
+C:\Users\Leudy\Desktop\BattleShip\bin\Debug\net6.0\BattleShip.dll
+C:\Users\Leudy\Desktop\BattleShip\bin\Debug\net6.0\BattleShip.pdb
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.csproj.AssemblyReference.cache
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.AssemblyInfoInputs.cache
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.AssemblyInfo.cs
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.dll
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\refint\BattleShip.dll
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.pdb
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\BattleShip.genruntimeconfig.cache
+C:\Users\Leudy\Desktop\BattleShip\obj\Debug\net6.0\ref\BattleShip.dll
